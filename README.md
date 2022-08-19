@@ -1,13 +1,9 @@
-[![Build Status](https://github.com/purcell/emacs.d/workflows/CI/badge.svg)](https://github.com/purcell/emacs.d/actions)
-<a href="https://www.patreon.com/sanityinc"><img alt="Support me" src="https://img.shields.io/badge/Support%20Me-%F0%9F%92%97-ff69b4.svg"></a>
-
 # A reasonable Emacs config
 
-This is my emacs configuration tree, continually used and tweaked
-since 2000, and it may be a good starting point for other Emacs
-users, especially web developers. These days it's
-somewhat geared towards OS X, but it is known to also work on Linux
-and Windows.
+This is my emacs configuration tree, used and tweaked
+and it may be a good starting point for other Emacs
+users. These days it's
+somewhat geared towards OS X.
 
 Emacs itself comes with support for many programming languages. This
 config adds improved defaults and extended support for the following, listed
@@ -104,23 +100,3 @@ config remains compatible with the latest package and Emacs versions.
 
 *Please note that I cannot provide support for customised versions of
 this configuration.*
-
-## Support / issues
-
-If you hit any problems, please first ensure that you are using the latest version
-of this code, and that you have updated your packages to the most recent available
-versions (see "Updates" above). If you still experience problems, go ahead and
-[file an issue on the github project](https://github.com/purcell/emacs.d).
-
--Steve Purcell
-
-<hr>
-
-
-[💝 Support this project and my other Open Source work](https://www.patreon.com/sanityinc)
-
-[💼 LinkedIn profile](https://uk.linkedin.com/in/stevepurcell)
-
-[✍ sanityinc.com](http://www.sanityinc.com/)
-
-[🐦 @sanityinc](https://twitter.com/sanityinc)
